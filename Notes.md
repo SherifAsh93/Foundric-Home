@@ -15,3 +15,5 @@
     ## "ext": "ts,js,json,html,css"
     ## "exec": "ts-node src/index.ts"
     ## inside src folder create index.ts file to start the server with
+
+    ### in case I need to push changes to the database, I need to run "npm run db:push"
